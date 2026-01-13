@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+NLPenv/
+venv/
+env/
+
+# TensorBoard logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
